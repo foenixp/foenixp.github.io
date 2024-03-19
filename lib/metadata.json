@@ -1,13 +1,11 @@
 {
   "vaultName": "9TAILS",
-  "lastExport": 1710872176827,
+  "lastExport": 1710872325614,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark contextual-typography outliner-plugin-dnd minimal-nord-dark minimal-default-light borders-none colorful-active links-ext-on full-width-media minimal-readable-off table-wide img-max iframe-max AT-row trim-cols embed-strict checkbox-square",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "03 Executions/2024/2024 All notes/PRJ - Japan Travel Spring 2024/PRJ-TR - Japan Travel Spring 2024 - Initerary - cv.canvas",
-    "03 Executions/2024/2024 All notes/PRJ - Japan Travel Spring 2024/PRJ-TR - Japan Travel Spring 2024 - Recommendations - cv.canvas",
     "05 Mind/All Mind notes/TRA-CO - Japan.md",
     "05 Mind/All Mind notes/TRA-CT - Kobe Japan.md",
     "05 Mind/All Mind notes/TRA-CT - Kyoto Japan.md",
@@ -21,13 +19,6 @@
     "05 Mind/All Mind notes/TRA-RE - Travel to Nara Japan in 2024.md",
     "05 Mind/All Mind notes/TRA-RE - Travel to Osaka Japan in 2024.md",
     "05 Mind/All Mind notes/TRA-RE - Travel to Tokyo Japan in 2024.md",
-    "lib/media/pasted-image-20240302001323.png",
-    "lib/media/pasted-image-20240302001208.png",
-    "lib/media/pasted-image-20240302004410.png",
-    "lib/media/pasted-image-20240203150244.png",
-    "lib/media/pasted-image-20240203135424.png",
-    "lib/media/pasted-image-20240205144129.png",
-    "lib/media/pasted-image-20240205144739.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -60,10 +51,15 @@
     "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css",
-    "lib/media/img-522591d47bd9f0b6d6bdfa46ffbffbb7-v.jpg",
+    "lib/media/pasted-image-20240203135424.png",
+    "lib/media/pasted-image-20240205144129.png",
+    "lib/media/pasted-image-20240302001323.png",
     "lib/media/pasted-image-20240205143817.png",
     "lib/media/pasted-image-20240205143731.png",
+    "lib/media/pasted-image-20240302004410.png",
+    "lib/media/pasted-image-20240205144739.png",
     "lib/media/pasted-image-20240205143857.png",
+    "lib/media/pasted-image-20240302001208.png",
     "lib/media/pasted-image-20240203141029.png",
     "lib/media/pasted-image-20240302001459.png",
     "lib/media/pasted-image-20240302004454.png",
@@ -312,229 +308,195 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1710872176827,
-      "sourceSize": 22921,
+      "modifiedTime": 1710872325614,
+      "sourceSize": 15808,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1710872176827,
-      "sourceSize": 2076,
+      "modifiedTime": 1710872325614,
+      "sourceSize": 1717,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 157356,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 154546,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 206577,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 689,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 11668,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1710872176827,
+      "modifiedTime": 1710872325614,
       "sourceSize": 166532,
       "exportedPath": "lib/styles/snippets.css",
-      "dependencies": []
-    },
-    "03 Executions/2024/2024 All notes/PRJ - Japan Travel Spring 2024/PRJ-TR - Japan Travel Spring 2024 - Initerary - cv.canvas": {
-      "modifiedTime": 1710871181673,
-      "sourceSize": 5844,
-      "exportedPath": "03-executions/2024/2024-all-notes/prj-japan-travel-spring-2024/prj-tr-japan-travel-spring-2024-initerary-cv.html",
-      "dependencies": [
-        "lib/media/img-522591d47bd9f0b6d6bdfa46ffbffbb7-v.jpg"
-      ]
-    },
-    "lib/media/img-522591d47bd9f0b6d6bdfa46ffbffbb7-v.jpg": {
-      "modifiedTime": 1710871181673,
-      "sourceSize": 75193,
-      "exportedPath": "lib/media/img-522591d47bd9f0b6d6bdfa46ffbffbb7-v.jpg",
-      "dependencies": []
-    },
-    "03 Executions/2024/2024 All notes/PRJ - Japan Travel Spring 2024/PRJ-TR - Japan Travel Spring 2024 - Recommendations - cv.canvas": {
-      "modifiedTime": 1710872176827,
-      "sourceSize": 2659,
-      "exportedPath": "03-executions/2024/2024-all-notes/prj-japan-travel-spring-2024/prj-tr-japan-travel-spring-2024-recommendations-cv.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240302001323.png",
-        "lib/media/pasted-image-20240302001208.png",
-        "lib/media/pasted-image-20240302004410.png",
-        "lib/media/pasted-image-20240203150244.png",
-        "lib/media/pasted-image-20240203135424.png",
-        "lib/media/pasted-image-20240205144129.png",
-        "lib/media/pasted-image-20240205144739.png"
-      ]
-    },
-    "lib/media/pasted-image-20240203150244.png": {
-      "modifiedTime": 1710872176827,
-      "sourceSize": 22929716,
-      "exportedPath": "lib/media/pasted-image-20240203150244.png",
       "dependencies": []
     }
   }
